@@ -1,0 +1,6 @@
+pyarrow
+geopandas
+pandas
+shapely
+ipython
+folium
