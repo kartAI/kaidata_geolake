@@ -1,5 +1,26 @@
+# Data files
+*.csv
+*.parquet
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
 ais_data_partitioned/
 data/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
