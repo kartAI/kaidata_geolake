@@ -1,3 +1,5 @@
+brukerhistorie1/geopandas
+Ine/data
 # Data files
 *.csv
 *.parquet
@@ -6,6 +8,7 @@
 *.dbf
 *.shx
 *.prj
+ main
 ais_data_partitioned/
 data/
 
