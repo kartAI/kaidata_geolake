@@ -1,5 +1,7 @@
 pandas
 geopandas
 shapely
-matplotlib
-contextily
+folium
+pyproj
+ipywidgets
+ipython
