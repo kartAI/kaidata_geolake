@@ -1,9 +1,0 @@
-pandas
-geopandas
-shapely
-matplotlib
-contextily
-pyproj
-folium
-ipywidgets
-watchdog
