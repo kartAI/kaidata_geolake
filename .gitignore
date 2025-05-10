@@ -2,7 +2,7 @@
 .DS_Store
 Johanne/data
 AIS/ais_data_partitioned/
-Data/
+AIS/Data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
