@@ -1,8 +1,8 @@
 .venv
 .DS_Store
 Johanne/data
-ais_data_partitioned/
-data/
+AIS/ais_data_partitioned/
+Data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
