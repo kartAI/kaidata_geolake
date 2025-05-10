@@ -13,3 +13,8 @@ watchdog~=6.0.0
 matplotlib~=3.10.1
 contextily~=1.6.2
 numpy~=2.2.3
+
+folium
+pandas
+matplotlib
+contextily
