@@ -4,6 +4,8 @@ bachelorprosjekt 2025
 
 "KAI-data": Geografisk data og utveksling med Delta Lake og Delta Sharing
 
+Denne readme er generert med chatgpt.
+
 ## 📘 Geodata-analyse med GeoPandas, DuckDB og Databricks
 
 Dette prosjektet består av Jupyter Notebooks utviklet for behandling, filtrering og visualisering av geografiske data (AR50 og AIS). Verktøyene tar i bruk ulike teknologier som GeoPandas, DuckDB og Apache Spark (Databricks).
@@ -11,12 +13,6 @@ Dette prosjektet består av Jupyter Notebooks utviklet for behandling, filtrerin
 ---
 
 ### 📂 Innhold
-
-| Notebook | Teknologi | Formål |
-|----------|-----------|--------|
-| `u1_geopandas.ipynb`, `u2_geopandas.ipynb`, `Geopandas.ipynb` | GeoPandas | Konvertering, filtrering og kartvisning av skip innen radius fra Kristiansand |
-| `DuckDB.ipynb`, `DuckDB_.ipynb` | DuckDB | Spatial spørring og simulert strømming av AR50-data |
-| `Databricks.ipynb`, `Databricks_.ipynb`, `Setup_AIS_Databricks.ipynb`, `Setup_AR50_Databricks.ipynb` | PySpark, Sedona | Strømming og filtrering av AIS og AR50 med partial reads |
 
 | Notebook | Datasett |
 |----------|-----------|
