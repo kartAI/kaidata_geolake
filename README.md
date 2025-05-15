@@ -49,7 +49,7 @@ Databricks-miljø krever:
 
 ## ✅ Brukerhistorier
 
-Er beskrive i alle notebookene.
+Er beskrevet i alle notebookene.
 
 ---
 
